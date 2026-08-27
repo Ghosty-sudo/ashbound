@@ -1,0 +1,24 @@
+[application]
+config/name="Medieval Pixel RPG 0.15.2"
+run/main_scene="res://scenes/main.tscn"
+[display]
+window/size/viewport_width=960
+window/size/viewport_height=540
+window/size/window_width_override=960
+window/size/window_height_override=540
+[rendering]
+renderer/rendering_method="gl_compatibility"
+[input]
+move_up={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":87)]}
+move_down={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":83)]}
+move_left={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":65)]}
+move_right={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":68)]}
+attack={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":32),Object(InputEventMouseButton,"button_index":1)]}
+cycle_weapon={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":81)]}
+character_menu={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":73)]}
+craft_tab={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":67)]}
+gear_tab={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":71)]}
+use_potion={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":72)]}
+interact={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":69)]}
+menu_back={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":4194305)]}
+dev_menu={"deadzone":0.5,"events":[Object(InputEventKey,"physical_keycode":4194341)]}
