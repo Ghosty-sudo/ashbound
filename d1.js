@@ -1,0 +1,1 @@
+globalThis.b=atob(s);globalThis.u=Uint8Array.from(b,c=>c.charCodeAt(0));import('./d2.js')
