@@ -1,0 +1,1 @@
+globalThis.r=new Response(new Blob([u]).stream().pipeThrough(new DecompressionStream('gzip')));import('./d3.js')
