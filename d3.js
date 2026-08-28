@@ -1,0 +1,1 @@
+r.text().then(h=>{document.open();document.write(h);document.close()})
