@@ -1,1 +1,1 @@
-r.text().then(h=>{document.open();document.write(h);document.close()})
+globalThis.r.text().then(h=>{document.open();document.write(h);document.close()})
