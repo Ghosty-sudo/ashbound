@@ -1,1 +1,1 @@
-Promise.all([...Array(27)].map((_,i)=>fetch('p'+('0'+i).slice(-2)).then(r=>r.text()))).then(a=>{s=a.join('');import('./d1.js')})
+Promise.all([...Array(27)].map((_,i)=>fetch('p'+('0'+i).slice(-2)).then(r=>r.text()))).then(a=>{globalThis.s=a.join('');import('./d1.js')})
