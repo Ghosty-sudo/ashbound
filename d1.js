@@ -1,1 +1,1 @@
-globalThis.b=atob(s);globalThis.u=Uint8Array.from(b,c=>c.charCodeAt(0));import('./d2.js')
+globalThis.b=atob(globalThis.s);globalThis.u=Uint8Array.from(globalThis.b,c=>c.charCodeAt(0));import('./d2.js')
