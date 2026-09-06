@@ -1,6 +1,6 @@
 # ASHBOUND 0.32.0 — STEELWAKE ALPHA
 
-Steelmwake moves the browser playtest toward Steam/PC maturity without changing the core progression balance.
+Steelwake moves the browser playtest toward Steam/PC maturity without changing the core progression balance.
 
 ## Added
 - Standard Gamepad API gameplay controls: left-stick move, right-stick aim, attack/dash/interact/Ash Burst/potion/menu/pause mappings.
